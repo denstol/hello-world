@@ -1,2 +1,2 @@
 # hello-world
-Just another repositorie
+Just another repository
